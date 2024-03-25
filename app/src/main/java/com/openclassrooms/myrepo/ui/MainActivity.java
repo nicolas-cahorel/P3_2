@@ -1,14 +1,16 @@
 package com.openclassrooms.myrepo.ui;
 
 
-
 import com.openclassrooms.myrepo.R;
 import com.openclassrooms.myrepo.model.Task;
+
 import android.os.Bundle;
+
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
+
 import java.util.List;
 
 /**
